@@ -2,6 +2,8 @@
 
 `BZGFormField` is a text field with a validity indicator. UI/UX inspired by [@muffs](https://github.com/muffs)
 
+My current work is at [Hraness](https://hraness.com/).
+
 ![alt tag](https://raw.github.com/benzguo/BZGFormField/master/Screenshots/1.png)
 
 The left indicator changes color based on the validity of the field's text - just pass the field a text validation block:
